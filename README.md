@@ -1,6 +1,6 @@
 # Processor Simulator for ToyRISC
 
-This repository contains the code of processor simulator for ToyRISC ISA, written in Java, as a part of coursework for Computer Architecture Lab.
+This repository contains the code for processor simulator for ToyRISC ISA, written in Java, as a part of coursework for Computer Architecture Lab.
 
 Here is a description of the folders in this repository:
 1. Assignment 1:  Programs written in ToyRISC ISA
