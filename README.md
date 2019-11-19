@@ -8,4 +8,4 @@ Here is a description of the folders in this repository:
 3. Assignment 3:  Single cycle processor simulator
 4. Assignment 4:  Pipelined core model processor simulator
 5. Assignment 5:  Discrete event simulator 
-6. Assignment 6:  Implementation of caches (yet to be uploaded)
+6. Assignment 6:  Implementation of caches
