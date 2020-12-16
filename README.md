@@ -1,5 +1,6 @@
 # Processor Simulator for ToyRISC
-
+[![HitCount](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/Processor-Simulator-for-ToyRISC.svg)](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/Processor-Simulator-for-ToyRISC)
+<br>
 This repository contains the code for processor simulator for ToyRISC ISA, written in Java, as a part of coursework for Computer Architecture Lab.
 
 Here is a description of the folders in this repository:
